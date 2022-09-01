@@ -1,3 +1,7 @@
+html {
+  font-size: 6.25%;
+}
+
 html,
 body {
   padding: 0;
@@ -23,4 +27,28 @@ a {
     color: white;
     background: black;
   }
+}
+
+h1 {
+  font-size: 32rem;
+}
+
+h2 {
+  font-size: 24rem;
+}
+
+h3 {
+  font-size: 18rem;
+}
+
+h4 {
+  font-size: 16rem;
+}
+
+h5 {
+  font-size: 14rem;
+}
+
+h6 {
+  font-size: 12rem;
 }

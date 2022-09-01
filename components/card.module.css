@@ -1,0 +1,19 @@
+.container {
+  width: 250rem;
+  height: 250rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1000rem;
+  transition: all 1s ease-in-out;
+}
+
+.container:hover {
+  box-shadow: 0 0 500rem 100rem rgba(99, 31, 255);
+}
+
+.container > h4 {
+  margin-bottom: 10rem;
+  margin-top: 0rem;
+}
